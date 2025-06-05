@@ -1,0 +1,9 @@
+findspark
+pyspark==3.2.3
+confluent_kafka
+kafka-python
+python-dotenv
+spark-nlp==5.2.3
+Flask-Cors==5.0.0
+six==1.17.0
+kafka-python
